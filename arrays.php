@@ -1,6 +1,6 @@
 <?php include "menu.php"; ?>
-	<h2>Arrays</h2>
+	<h2>Valikoima</h2>
 	<p>
-		This is the arrayyy.
+		Tähän tulee muutama taimenperho kuvan kera.
 	</p>
 <?php include "footer.php"; ?>

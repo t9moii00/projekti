@@ -1,6 +1,6 @@
 <?php include "menu.php"; ?>
-	<h2>Post</h2>
+	<h2>Valikoima</h2>
 	<p>
-		This is the Postiii.
+		Tähän tulee muutama harjusperho kuvan kera.
 	</p>
 <?php include "footer.php"; ?>

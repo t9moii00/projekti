@@ -1,6 +1,6 @@
 <?php include "menu.php"; ?>
-	<h2>Basic</h2>
+	<h2>Valikoima</h2>
 	<p>
-		This is the basicci.
+		Tähän tulee muutama lohiperhomalli kuvan kera.
 	</p>
 <?php include "footer.php"; ?>
