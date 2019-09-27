@@ -1,6 +1,6 @@
 <?php include "menu.php"; ?>
-	<h2>Ostoskori</h2>
+	<h2>Asiakastiedot</h2>
 	<p>
-		Tähän tulee ostoskorin sisältö
+		Tähän tulee postilla asiakastiedot
 	</p>
 <?php include "footer.php"; ?>

@@ -1,6 +1,6 @@
 <?php include "menu.php"; ?>
-	<h2>get</h2>
+	<h2>Tilaustiedot</h2>
 	<p>
-		This is the getti.
+		Tähän tulee ostettujen tuotteiden tilaustiedot jne.
 	</p>
 <?php include "footer.php"; ?>

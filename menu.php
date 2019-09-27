@@ -15,10 +15,10 @@
   		<li><a href="basic.php">Lohiperhot</a></li>
   		<li><a href="arrays.php">Taimenperhot</a></li>
   		<li><a href="post.php">Harjusperhot</a></li>
-  		<li><a href="get.php">Haukiperhot</a></li>
-  		<li><a href="database.php">Larvat</a></li>
-  		<li><a href="session.php">Session</a></li>
+  		<li><a href="get.php">Tilaustiedot</a></li>
+  		<li><a href="database.php">Ostoskori</a></li>
+  		<li><a href="session.php">Asiakastiedot</a></li>
   	</ul>
     </div>
     <div id="content">
-      Tällä sivustolla kauppaan muutamia hyväksi todettuja perhomalleja aina lohiperhoista
+      Tällä sivustolla kauppaan muutamia hyväksi todettuja perhomalleja lohen, taimenen- ja harjuksen kalastukseen.
