@@ -21,4 +21,4 @@
   	</ul>
     </div>
     <div id="content">
-      Tällä sivustolla kauppaan muutamia hyväksi todettuja perhomalleja aina lohiperhoista harjusperhoihin.
+      Tällä sivustolla kauppaan muutamia hyväksi todettuja perhomalleja aina lohiperhoista
